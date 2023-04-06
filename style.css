@@ -148,6 +148,13 @@ a{
     transform: scaleY(0);
 }
 
+
+
+.logo img
+{
+    height:512px;
+    width: 512px;
+}
 .header .search-form.active{
     transform: scaleY(1);
 }
